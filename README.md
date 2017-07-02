@@ -1,7 +1,7 @@
 # Boolean_Logic_Quiz
 Boolean Logic Quiz Program
 
-Run this script with: $ python3 BooleanQuiz.py AnswerSheet.txt
+Run this script with: $ python3 BooleanQuiz.py WelcomePrompt.txt AnswerSheet.txt
 
 Program idea came from Zed at LearnCodeTheHardWay.
 
