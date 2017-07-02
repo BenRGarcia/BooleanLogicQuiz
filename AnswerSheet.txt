@@ -40,3 +40,6 @@
 |   0 == 1               = False |
 |   0 == 0               = True  |
 ==================================
+
+Special thanks to Zed at 'Learn Code the Hard Way':
+https://learncodethehardway.org/

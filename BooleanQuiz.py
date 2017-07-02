@@ -7,7 +7,7 @@ import QuestionBank
 correct_answers = 0    # Use to increment correct answers
 incorrect_answers = 0  # Use to increment incorrect answers
 question_number = 1    # Use to increment question numbers while taking quiz
-question_count = 2     # Number of questions to ask in this quiz
+question_count = 8     # Number of questions to ask in this quiz
 random_numbers = sample(range(len(QuestionBank.question_bank)),question_count)
 # Generate random integers within the question_bank list's range
 
