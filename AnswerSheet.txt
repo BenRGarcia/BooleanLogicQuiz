@@ -1,4 +1,4 @@
-The Truth Tables Answer Key:
+   The Truth Tables Answer Key
 ==================================
 |'NOT':	                         |
 |   not False            = True  |
