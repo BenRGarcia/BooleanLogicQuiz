@@ -1,0 +1,10 @@
+==========================================
+    Welcome to the Boolean Logic Quiz!
+==========================================
+Your job is to determine whether the logic
+argument will return 'True' or 'False'.
+
+Beware!
+Your inputs are case sensitive...
+
+Remember to capitalize 'T'rue and 'F'alse!
