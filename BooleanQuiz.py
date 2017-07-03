@@ -43,8 +43,8 @@ while question_count > 0:
 def final_score():
     """A function that prints the final score"""
     print("\033c") # Clear the terminal screen for the user
-    score = (correct_answers / (correct_answers + incorrect_answers))
-    print ("Thanks for taking the quiz! Your final score is: {:.1%}".format(score))
+    score = (correct_answers / (correct_answers + incorrect_answers) * 100)
+    print ("Thanks for taking the quiz! Your final score is: %r%%" % score)
     print (input("\nPress ENTER key to see the answer key.\n>>>"))
 
 
