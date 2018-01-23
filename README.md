@@ -1,17 +1,14 @@
-# Boolean_Logic_Quiz
-Boolean Logic Quiz Program
+# Boolean Logic Quiz for Python
 
 Run this script with: $ python3 BooleanQuiz.py WelcomePrompt.txt AnswerSheet.txt
 
-Program idea came from Zed at LearnCodeTheHardWay.
+### Program idea came from Zed at [Learn Code The HardWay](https://learncodethehardway.org/)
 
-I was working through his Python tutorial and at Exercise 27 he asked
-the students to write out flash cards of boolean expressions and to
+After working through Zed's Python tutorial at Exercise 27, he asked
+us to write out flash cards of boolean expressions and to
 memorize the chart.
 
-I thought it'd be fun to write a program that would do the same thing as
-writing out index cards.
+I thought it'd be fun to write a command line program that would do the same 
+thing as writing out index cards.
 
-Thanks Zed for the tutorial exercises and inspiration!
-
--Ben
+Thanks to Zed for the tutorial exercises and inspiration!
